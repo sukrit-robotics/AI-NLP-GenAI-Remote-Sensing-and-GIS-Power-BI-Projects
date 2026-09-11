@@ -1,0 +1,1 @@
+# AI-NLP-GenAI-Remote-Sensing-and-GIS-Power-BI-Projects
