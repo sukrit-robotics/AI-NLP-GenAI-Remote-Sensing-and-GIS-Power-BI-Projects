@@ -1,0 +1,6 @@
+flask
+langchain
+langchain-community
+pinecone-client
+python-dotenv
+openai
